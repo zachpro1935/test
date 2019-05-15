@@ -31,6 +31,8 @@ use FOS\RestBundle\Controller\Annotations\Put;
 use FOS\RestBundle\Controller\Annotations\Post;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 
+SD debugo
+
 class FOSController extends FOSRestController
 {
     /**
