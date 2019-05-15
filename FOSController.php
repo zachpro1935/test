@@ -3,9 +3,13 @@
 namespace App\Controller;
 
 abc
+<<<<<<< HEAD
 abcdefgabc
 abc
 abc develop
+=======
+new1
+>>>>>>> new1
 use App\Entity\User;
 use App\Form\RegistrationFormType;
 use Symfony\Component\Form\Extension\Core\Type\SubmitType;
